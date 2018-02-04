@@ -1,5 +1,5 @@
 # Pithocker
-Personnal project. Trying to learn python, django, and the docker ecosystem.
+Personnal project. Trying to learn python, django, and the docker ecosystem (container, compose, prchestration) and maybe other nice technologies like hadoop or openfaas.
 # Steps followed
 - Install python "choco install python"
 - Install docker windows toolbox (because I'm using Windows Home) "choco install docker-toolbox -ia /COMPONENTS="kitematic,virtualbox,dockercompose" "
